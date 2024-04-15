@@ -3,7 +3,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <View>
+    <View className="bg-primary h-full flex-1 justify-center items-center">
       <Text>Home</Text>
     </View>
   );
